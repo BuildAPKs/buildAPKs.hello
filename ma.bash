@@ -8,4 +8,5 @@ shopt -s nullglob globstar
 cd "$JDR"
 # _AT_ username/repository commit
 _AT_ han1202012/ApplicationDemo 0073a0292bba1c963c94f036f7b396707d6c52ec
+_AT_ han1202012/DisplayTest 32c14355589367aae65916315c7f4f1d170de011
 # ma.bash OEF
