@@ -1,4 +1,4 @@
-#!/usr/bin/env bash # Copyright 2019-2020 (c) all rights reserved 
+#!/usr/bin/env bash # Copyright 2019-2021 (c) all rights reserved 
 # by BuildAPKs https://buildapks.github.io see LICENSE
 # File RDR/conf/README.md has more information about this file.
 #####################################################################
